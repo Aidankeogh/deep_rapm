@@ -1,0 +1,4 @@
+[submodule "data_collector"]
+	path = data_collector
+	url = https://gitlab.com/basketball-analytics/data_collector.git
+	branch = master

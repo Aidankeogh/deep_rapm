@@ -1,0 +1,61 @@
+event_field = {
+    "GAME_ID": 0,
+    "EVENTNUM": 1,
+    "EVENTMSGTYPE": 2,
+    "EVENTMSGACTIONTYPE": 3,
+    "PERIOD": 4,
+    "WCTIMESTRING": 5,
+    "PCTIMESTRING": 6,
+    "HOMEDESCRIPTION": 7,
+    "NEUTRALDESCRIPTION": 8,
+    "VISITORDESCRIPTION": 9,
+    "SCORE": 10,
+    "SCOREMARGIN": 11,
+    "PERSON1TYPE": 12,
+    "PLAYER1_ID": 13,
+    "PLAYER1_NAME": 14,
+    "PLAYER1_TEAM_ID": 15,
+    "PLAYER1_TEAM_CITY": 16,
+    "PLAYER1_TEAM_NICKNAME": 17,
+    "PLAYER1_TEAM_ABBREVIATION": 18,
+    "PERSON2TYPE": 19,
+    "PLAYER2_ID": 20,
+    "PLAYER2_NAME": 21,
+    "PLAYER2_TEAM_ID": 22,
+    "PLAYER2_TEAM_CITY": 23,
+    "PLAYER2_TEAM_NICKNAME": 24,
+    "PLAYER2_TEAM_ABBREVIATION": 25,
+    "PERSON3TYPE": 26,
+    "PLAYER3_ID": 27,
+    "PLAYER3_NAME": 28,
+    "PLAYER3_TEAM_ID": 29,
+    "PLAYER3_TEAM_CITY": 30,
+    "PLAYER3_TEAM_NICKNAME": 31,
+    "PLAYER3_TEAM_ABBREVIATION": 32
+}
+
+event_type = {
+    "FGM": 1,
+    "FGA": 2,
+    "FTA": 3,
+    "REB": 4,
+    "STL": 5,
+    "PF": 6,
+    "VIOL": 7,
+    "SUB": 8,
+    "TIM": 9,
+    "JUMP": 10,
+    "EJEC": 11,
+    "QSTART": 12,
+    "QEND": 13
+}
+
+free_throw_event_type = {
+    "1of1": 10,
+    "1of2": 11,
+    "2of2": 12,
+    "1of3": 13,
+    "2of3": 14,
+    "3of3": 15,
+    "tech": 16
+}
